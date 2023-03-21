@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f5f03dac-ce66-43df-ab6d-720a0ce4e0d1/ddfew69-3d9c7723-57b6-4a14-953c-3b7be208ba49.jpg/v1/fill/w_1079,h_741,q_70,strp/goku_s_saiyan_feet_tease_by_daydayweber1_ddfew69-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODc5IiwicGF0aCI6IlwvZlwvZjVmMDNkYWMtY2U2Ni00M2RmLWFiNmQtNzIwYTBjZTRlMGQxXC9kZGZldzY5LTNkOWM3NzIzLTU3YjYtNGExNC05NTNjLTNiN2JlMjA4YmE0OS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Pd4KEFWc1qHQ99FZ01NdUTgXOaYY00-B8pBKYWCfSPg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://cdn.discordapp.com/attachments/850404674787475556/1087108604617838592/7b0c82a01061d775a6abca7ccf247eee.png); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
